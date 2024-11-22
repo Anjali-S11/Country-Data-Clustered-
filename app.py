@@ -1,7 +1,8 @@
 
 import streamlit as st
 import pickle
-import pyforest
+import numpy
+import pandas
 
 ## load the instances that were created
 
